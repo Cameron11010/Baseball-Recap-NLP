@@ -2,8 +2,8 @@ import pandas as pd
 import os
 import re
 
-EVENTS_PATH = "bevent/2025eve/2025events.xlsx"
-ROSTER_FOLDER = "bevent/2025eve/"
+EVENTS_PATH = "C:/Users/Cameron/UNI/3rd year/Baseball NLP/bevent/2025events.xlsx"
+ROSTER_FOLDER = "C:/Users/Cameron/UNI/3rd year/Baseball NLP/bevent/Roster"
 
 # -------------------------
 # COLUMN CLEANING
